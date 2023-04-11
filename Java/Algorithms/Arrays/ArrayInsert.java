@@ -23,6 +23,7 @@ public class ArrayInsert{
 		s.printArray(arr);
 		s.insertAtPos(arr,2,20);
 		s.printArray(arr);
+		System.out.print("Insertion is completed");
 		
 	}
 }
